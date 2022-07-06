@@ -1,0 +1,1 @@
+# BebopNet: Deep Neural Models for Personalized Jazz Improvisations

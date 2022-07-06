@@ -1,0 +1,1 @@
+# GenJam: A Genetic Algorithm for Generating Jazz Solos

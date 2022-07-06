@@ -1,0 +1,1 @@
+# Impromptu Accompaniment of Pop Music using Coupled Latent Variable Model with Binary Regularizer

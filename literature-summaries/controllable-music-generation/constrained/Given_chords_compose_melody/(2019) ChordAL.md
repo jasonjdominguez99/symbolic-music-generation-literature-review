@@ -1,0 +1,1 @@
+# ChordAL: A Chord-Based Approach for Music Generation using Bi-LSTMs

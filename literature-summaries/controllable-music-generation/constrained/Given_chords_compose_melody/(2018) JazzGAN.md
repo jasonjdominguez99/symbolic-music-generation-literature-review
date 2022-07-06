@@ -1,0 +1,1 @@
+# JazzGAN: Improvising with Generative Adversarial Network

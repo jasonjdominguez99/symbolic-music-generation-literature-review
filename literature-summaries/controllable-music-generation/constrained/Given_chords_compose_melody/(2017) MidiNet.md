@@ -1,0 +1,1 @@
+# MidiNet: A Convolutional Generative Adversarial Network for Symbolic-Domain Music Generation
