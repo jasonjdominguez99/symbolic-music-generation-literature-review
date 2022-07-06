@@ -1,0 +1,93 @@
+# Interactive Music Generation via Deep Learning
+
+- Real-time
+	- Accompaniment
+		- [[(2020) RL-Duet Online Music Accompaniment]]
+	- Call and reponse
+		- [[(1994) GenJam]]
+		- [[(2017) Deep Music Towards Musical Dialogue]]
+		- [[(2019) Performing Structured Improvisations]]
+		- [[(2019) BachDuet]]
+		- [[AI Duet]]
+- Pre-inference/constrained generation
+	- Genre/style
+		- [[(2018) Off the Beaten Track]]
+		- [[(2018) DeepJ Style-Specific Music Generation]]
+		- [[(2020) CONLON]]
+		- [[(2020) A Style-Specific Music Composition NN]]
+		- [[(2020) Style-Aware Symbolic Music Representations]]
+		- Accompaniment
+			- Instrumentation
+				- Pitch-range
+			- [[(2017) SeqGAN]]
+			- [[(2017) Sequence Tutor]]
+			- [[(2019) iComposer]]
+			- [[(2019) The Bach Doodle]]
+		- Dynamics
+		- Emotion
+			- [[(2019) Emotional Symbolic Music Generation System]]
+			- [[(2019) Mind Band]]
+			- [[(2020) Music for Tabletop Role-Playing Games]]
+			- [[(2021) Learning to Generate Music with Sentiment]]
+			- Tonality
+		- Form
+			- Key modulation
+		- Melody harmonization
+			- [[(2008) MySong]]
+			- [[(2017) Chord Generation Using BLSTM Networks]]
+			- [[(2018) FUNCTIONAL HARMONY RECOGNITION]]
+			- [[(2018) Lead Sheet Generation via a Hybrid Generative Model]]
+			- [[(2018) Lead Sheet Generation by Conditional GAN]]
+			- [[(2018) XiaoIce Band]]
+			- [[(2019) CLSTMS to  Generate Chords Accompaniment]]
+			- [[(2019) The Bach Doodle]]
+			- [[(2020) Pop Music Generation]]
+			- [[(2021) Automatic Melody Harmonization Comparative Study]]
+		- Rhythm
+			- Meter
+			- Tempo
+	- Music completion
+		- [[(2017) DeepBach]]
+		- [[(2017) Interactive Music Generation]]
+		- [[(2019) Counterpoint by Convolution]]
+		- [[(2019) Melody Completion Based on CNNs and Adversarial Learning]]
+		- [[(2018) Infilling Piano Performances]]
+		- [[(2019) NONOTO]]
+	- Given chords, compose melody
+		- [[(2017) MidiNet]]
+		- [[(2018) JazzGAN]]
+		- [[(2018) XiaoIce Band]]
+		- [[(2019) ChordAL]]
+		- [[(2020) BebopNet]]
+		- [[ImprovRNN]]
+	- Given tracks, compose other tracks
+		- [[(2017) MuseGAN]]
+		- [[(2018) Convolutional GAN for Polyphonic Music Generation]]
+		- [[(2019) Impromptu Accompaniment of Pop Music]]
+		- [[(2020) PopMAG]]
+
+
+
+
+%%- Local
+	- Monophonic
+		- [[(2017) Sequence Tutor]]
+		- [[(2018) SentiGAN]]
+		- [[(2019) Learning Long-Term Structure in Music]]
+	- Polyphonic
+		- [[(2015) LSTM-RTRBM Application to Polyphonic Music Generation]]
+		- [[(2015) Polyphonic Music Modelling with LSTM-RTRBM]]
+		- [[(2017) Generating Polyphonic Music Using Tied Parallel Networks]]
+		- [[(2018) Convolutional GAN for Polyphonic Music Generation]]
+		- [[(2018) Imposing Higher-Level Structure in Polyphonic Music Generation]]
+		- [[(2018) Generating Music with Long-Term Structure]]
+		- [[(2019) MuseNet]]
+		- [[(2020) Learning Adversarial Transformer for Symbolic Music Generation]]
+		- [[(2020) The Jazz Transformer]]
+	- Multi-track
+		- [[(2017) MuseGAN]]
+		- [[(2017) SeqGAN]]
+		- [[(2018) BandNet]]
+		- [[(2019) A GAN Model To Generate Multi-instruments Music]]
+		- [[(2019) LakhNES]]
+		- [[(2020) MMM]]%%
